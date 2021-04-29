@@ -1,0 +1,15 @@
+{
+  "images" : [
+    {
+      "filename" : "alpine-landscape-rock-rubble-01b-al1.svg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "properties" : {
+    "preserves-vector-representation" : true
+  }
+}

@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns="http://www.w3.org/2000/svg"
+    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+    xmlns:cc="http://creativecommons.org/ns#"
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:svg="http://www.w3.org/2000/svg"
+    xmlns:ns1="http://sozi.baierouge.fr"
+    id="svg4042"
+    sodipodi:docname="dog ear.svg"
+    viewBox="0 0 640 480"
+    version="1.1"
+    inkscape:version="0.48.0 r9654"
+  >
+  <title
+      id="title2999"
+    >do ear</title
+  >
+  <defs
+      id="defs4044"
+    >
+    <radialGradient
+        id="radialGradient3942"
+        gradientUnits="userSpaceOnUse"
+        cy="48.187"
+        cx="24.116"
+        gradientTransform="matrix(-2.3272 -.98953 .18694 -.43965 71.231 91.426)"
+        r="7.231"
+        inkscape:collect="always"
+      >
+      <stop
+          id="stop3938"
+          style="stop-color:#0e232e"
+          offset="0"
+      />
+      <stop
+          id="stop3940"
+          style="stop-color:#0e232e;stop-opacity:0"
+          offset="1"
+      />
+    </radialGradient
+    >
+    <filter
+        id="filter3944"
+        width="1.2956"
+        y="-.34370"
+        x="-.14779"
+        height="1.6874"
+        color-interpolation-filters="sRGB"
+        inkscape:collect="always"
+      >
+      <feGaussianBlur
+          id="feGaussianBlur3946"
+          stdDeviation="0.81595288"
+          inkscape:collect="always"
+      />
+    </filter
+    >
+    <filter
+        id="filter3922"
+        color-interpolation-filters="sRGB"
+        inkscape:collect="always"
+      >
+      <feGaussianBlur
+          id="feGaussianBlur3924"
+          stdDeviation="0.91184483"
+          inkscape:collect="always"
+      />
+    </filter
+    >
+    <radialGradient
+        id="radialGradient4040"
+        gradientUnits="userSpaceOnUse"
+        cx="81.397"
+        cy=".57895"
+        r="32.202"
+        gradientTransform="matrix(13.623 -1.7095 .78452 6.7372 -868.78 346.34)"
+        inkscape:collect="always"
+      >
+      <stop
+          id="stop4008"
+          style="stop-color:#19aeff"
+          offset="0"
+      />
+      <stop
+          id="stop4010"
+          style="stop-color:#005c94"
+          offset="1"
+      />
+    </radialGradient
+    >
+  </defs
+  >
+  <sodipodi:namedview
+      id="base"
+      bordercolor="#666666"
+      inkscape:pageshadow="2"
+      inkscape:window-y="-4"
+      pagecolor="#ffffff"
+      inkscape:window-height="712"
+      inkscape:window-maximized="1"
+      inkscape:zoom="0.77472527"
+      inkscape:window-x="-4"
+      showgrid="false"
+      borderopacity="1.0"
+      inkscape:current-layer="layer1"
+      inkscape:cx="320"
+      inkscape:cy="240"
+      inkscape:window-width="1280"
+      inkscape:pageopacity="0.0"
+      inkscape:document-units="px"
+  />
+  <g
+      id="layer1"
+      inkscape:label="Layer 1"
+      inkscape:groupmode="layer"
+    >
+    <path
+        id="path3916"
+        sodipodi:nodetypes="ccccsscc"
+        style="stroke-width:0;fill:url(#radialGradient4040)"
+        inkscape:connector-curvature="0"
+        d="m31.837 10.73 584.76-0.27265-4.822 435.99-342.3 1.0033s-51.144 1.7957-67.496-14.066c-5.0025-4.8522-10.516-9.3226-15.669-14.064-52.56-48.35-155.49-146.67-155.49-146.67z"
+    />
+    <path
+        id="path3918"
+        sodipodi:nodetypes="ccccc"
+        style="stroke-width:0;fill:#cccccc"
+        inkscape:connector-curvature="0"
+        d="m32.032 272.65c28.693 48.484 211.4 64.065 233.83 83.381-22.863 6.4548-59.213 52.332-60.265 82.377l-175.97-166.76z"
+    />
+    <path
+        id="path3920"
+        style="filter:url(#filter3922);stroke:#000000;stroke-width:.1;fill:#0e232e"
+        d="m0.66253 35.379 18.552 22.116 34.946-0.71066-29.644-0.26501-2.3851-0.0603z"
+        sodipodi:nodetypes="cccccc"
+        inkscape:connector-curvature="0"
+        transform="matrix(8.9762 0 0 7.9907 29.444 -6.1233)"
+    />
+    <path
+        id="path3926"
+        style="opacity:.36585;filter:url(#filter3944);stroke:#000000;stroke-width:.1;fill:url(#radialGradient3942)"
+        d="m23.718 47.569c-3.5084-2.0043-6.5866-4.3837-11.13-5.6977l13.251 3.5776z"
+        sodipodi:nodetypes="cccc"
+        inkscape:connector-curvature="0"
+        transform="matrix(9.0961 0 0 7.5815 29.621 7.4412)"
+    />
+  </g
+  >
+  <metadata
+    >
+    <rdf:RDF
+      >
+      <cc:Work
+        >
+        <dc:format
+          >image/svg+xml</dc:format
+        >
+        <dc:type
+            rdf:resource="http://purl.org/dc/dcmitype/StillImage"
+        />
+        <cc:license
+            rdf:resource="http://creativecommons.org/licenses/publicdomain/"
+        />
+        <dc:publisher
+          >
+          <cc:Agent
+              rdf:about="http://openclipart.org/"
+            >
+            <dc:title
+              >Openclipart</dc:title
+            >
+          </cc:Agent
+          >
+        </dc:publisher
+        >
+        <dc:title
+          >dog ear</dc:title
+        >
+        <dc:date
+          >2011-05-16T07:45:50</dc:date
+        >
+        <dc:description
+        />
+        <dc:source
+          >https://openclipart.org/detail/138979/dog-ear-by-netalloy</dc:source
+        >
+        <dc:creator
+          >
+          <cc:Agent
+            >
+            <dc:title
+              >netalloy</dc:title
+            >
+          </cc:Agent
+          >
+        </dc:creator
+        >
+        <dc:subject
+          >
+          <rdf:Bag
+            >
+            <rdf:li
+              >ad back ground</rdf:li
+            >
+            <rdf:li
+              >advertisement banner</rdf:li
+            >
+            <rdf:li
+              >book mark</rdf:li
+            >
+            <rdf:li
+              >dog ear</rdf:li
+            >
+            <rdf:li
+              >foil</rdf:li
+            >
+            <rdf:li
+              >fold</rdf:li
+            >
+            <rdf:li
+              >folded paper</rdf:li
+            >
+            <rdf:li
+              >page back ground</rdf:li
+            >
+            <rdf:li
+              >page peel</rdf:li
+            >
+            <rdf:li
+              >paper</rdf:li
+            >
+            <rdf:li
+              >stationary</rdf:li
+            >
+            <rdf:li
+              >tag</rdf:li
+            >
+          </rdf:Bag
+          >
+        </dc:subject
+        >
+      </cc:Work
+      >
+      <cc:License
+          rdf:about="http://creativecommons.org/licenses/publicdomain/"
+        >
+        <cc:permits
+            rdf:resource="http://creativecommons.org/ns#Reproduction"
+        />
+        <cc:permits
+            rdf:resource="http://creativecommons.org/ns#Distribution"
+        />
+        <cc:permits
+            rdf:resource="http://creativecommons.org/ns#DerivativeWorks"
+        />
+      </cc:License
+      >
+    </rdf:RDF
+    >
+  </metadata
+  >
+</svg
+>
